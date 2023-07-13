@@ -1,0 +1,242 @@
+{
+    "movies":[
+        {
+            "id": 1,
+            "name": "Guardianes de la Galaxia: Volumen 3",
+            "name_in_english": "Guardians of the Galaxy Vol. 3",
+            "premiere": "Mayo 4 2023",
+            "genre": "Ciencia ficción, Aventura, Acción",
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6GkKzdNosVAL7UGgwTtCHSxLQ67.jpg",
+            "duration": "2h 30m",
+            "trailer": "https://youtu.be/FTGm7EexNmw",
+            "synopsis": "La querida banda de los Guardianes se instala en Knowhere. Pero sus vidas no tardan en verse alteradas por los ecos del turbulento pasado de Rocket. Peter Quill, aún conmocionado por la pérdida de Gamora, debe reunir a su equipo en una peligrosa misión para salvar la vida de Rocket, una misión que, si no se completa con éxito, podría muy posiblemente conducir al final de los Guardianes tal y como los conocemos.",
+            "age_restriction": "Recomendada para Mayores de 12 años",
+            "country": "Estados Unidos",
+            "director": "James Gunn",
+            "actors": "Chris Pratt, Zoe Saldaña, Dave Bautista, Karen Gillan, Pom Klementieff, Vin Diesel, Bradley Cooper, Sean Gunn and Chukwudi Iwuji",
+            "language": "Inglés"
+        },
+        {
+            "id": 2,
+            "name": "Spider-Man: Cruzando el Multiverso",
+            "name_in_english": "Spider-Man: Across the Spider-Verse",
+            "premiere": "Junio 1 2023",
+            "genre": "Acción, Aventura, Animación, Ciencia ficción",
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qqXTerrQYwg9pIMhb1GFbxa3WUz.jpg",
+            "duration": "2h 20m",
+            "trailer": "https://youtu.be/0BJ9J5ZFMSI",
+            "synopsis": "Miles Morales regresa para una aventura épica que transportará al amigable vecino de Brooklyn Spider-Man a través del Multiverso para unir fuerzas con Gwen Stacy y un nuevo equipo de Spider-People, y enfrentarse así a un villano mucho más poderoso que cualquier cosa que hayan conocido antes.",
+            "age_restriction": "Recomendada para Mayores de 7 años",
+            "country": "Estados Unidos",
+            "director": " Joaquim Dos Santos, Justin K. Thompson, Kemp Powers",
+            "actors": "Shameik Moore, Hailee Steinfeld, Brian Tyree Henry, Luna Lauren Velez, Jake Johnson, Jake Johnson, Jason Schwartzman, Issa Rae and Daniel Kaluuya",
+            "language": "Inglés"
+        },
+        {
+            "id": 3,
+            "name": "Elemental",
+            "name_in_english": "Elemental",
+            "premiere": "Junio 14 2023",
+            "genre": "Animación, Comedia, Familia, Fantasía, Romance",
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d79DeKDCgFOM23O8Dr6MELZVooY.jpg",
+            "duration": "1h 42m",
+            "trailer": "https://youtu.be/dJgSXsnrHrw",
+            "synopsis": "En una ciudad donde los residentes del fuego, el agua, la tierra y el aire viven juntos, una joven apasionada y un chico que se deja llevar por la corriente descubrirán algo elemental: cuánto tienen en común.",
+            "age_restriction": "Para todo el Público",
+            "country": "Estados Unidos",
+            "director": "Peter Sohn",
+            "actors": "Leah Lewis, Mamoudou Athie, Ronnie del Carmen, Shila Ommi, Wendi McLendon-Covey, Catherine O'Hara, Mason Wertheimer, Ronobir Lahiri and Wilma Bonet",
+            "language": "Inglés"
+        },
+        {
+            "id": 4,
+            "name": "Barbie",
+            "name_in_english": "Barbie",
+            "premiere": "Julio 19 2023",
+            "genre": "Comedia, Aventura, Fantasía",
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fNtqD4BTFj0Bgo9lyoAtmNFzxHN.jpg",
+            "duration": "1h 54m",
+            "trailer": "https://youtu.be/qG5HOV_B35I",
+            "synopsis": "Largometraje 'live-action' basado en la popular línea de muñecas Barbie.",
+            "age_restriction": "Recomendada para Mayores de 13 años",
+            "country": "Estados Unidos",
+            "director": "Greta Gerwig",
+            "actors": "Margot Robbie, Ryan Gosling, America Ferrera, Will Ferrell, Kate McKinnon, Ariana Greenblatt, Issa Rae, Rhea Perlman and Hari Nef",
+            "language": "Inglés"
+        },
+        {
+            "id": 5,
+            "name": "Indiana Jones y el dial del destino",
+            "name_in_english": "Indiana Jones and the Dial of Destiny",
+            "premiere": "Junio 28 2023",
+            "genre": "Aventura, Acción, Fantasía",
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3Sj5ubQ0BLXd6JuECq52Ira8Oor.jpg",
+            "duration": "2h 35m",
+            "trailer": "https://youtu.be/EVjvIL2joxQ",
+            "synopsis": "El arqueólogo Indiana Jones deberá emprender otra aventura contra el tiempo para intentar recuperar un dial legendario que puede cambiar el curso de la historia. Acompañado por su ahijada, Jones pronto se encuentra enfrentándose a Jürgen Voller, un ex nazi que trabaja para la NASA.",
+            "age_restriction": "Recomendada para Mayores de 12 años",
+            "country": "Estados Unidos",
+            "director": "James Mangold",
+            "actors": "Harrison Ford, Phoebe Waller-Bridge, Antonio Banderas, John Rhys-Davies, Toby Jones, Boyd Holbrook, Ethann Isidore, Mads Mikkelsen and Karen Allen",
+            "language": "Inglés"
+        },
+        {
+            "id": 6,
+            "name": "Flash",
+            "name_in_english": "Flash",
+            "premiere": "Junio 16 2023",
+            "genre": "Ciencia ficción, Acción, Aventura",
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x9Qc86JEyYkAKsdzjDpS5kbaAB7.jpg",
+            "duration": "2h 24m",
+            "trailer": "https://youtu.be/gun18R-zXVU",
+            "synopsis": "Barry altera inadvertidamente el futuro cuando utiliza sus superpoderes para viajar en el tiempo con el fin de cambiar los acontecimientos del pasado y queda atrapado en una realidad en la que el General Zod ha regresado y no hay superhéroes a los que recurrir. Para salvar el mundo en el que se encuentra y volver al futuro que conoce, la única esperanza de Barry es correr por su vida. Pero, ¿bastará con llevar a cabo el sacrificio definitivo para reiniciar el universo?",
+            "age_restriction": "Recomendada para Mayores de 13 años",
+            "country": "Estados Unidos",
+            "director": "Andy Muschietti",
+            "actors": "Ezra Miller, Sasha Calle, Michael Keaton, Michael Shannon, Ron Livingston, Maribel Verdú, Kiersey Clemons, Antje Traue and Saoirse-Monica Jackson",
+            "language": "Inglés"
+        },
+        {
+            "id": 7,
+            "name": "Sonido de Libertad",
+            "name_in_english": "Sound of Freedom",
+            "premiere": "Julio 4 2023",
+            "genre": "Acción, Drama",
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mx4O9OEvIB265VM3UATLslsSW5t.jpg",
+            "duration": "2h 11m",
+            "trailer": "https://youtu.be/fuV8n8HrgMI",
+            "synopsis": "Narra la historia de Tim Ballard, un ex Agente de Seguridad Nacional de Estados Unidos que ha estado en el submundo del tráfico de personas a lo largo de Latinoamérica salvando las vidas de cientos de niños.",
+            "age_restriction": "Recomendada para Mayores de 13 años",
+            "country": "Estados Unidos",
+            "director": "Alejandro Monteverde",
+            "actors": "Jim Caviezel, Mira Sorvino, Bill Camp, Kurt Fuller, Gerardo Taracena, José Zúñiga, Scott Haze, Gary Basaraba and Eduardo Verástegui",
+            "language": "Inglés"
+        },
+        {
+            "id": 8,
+            "name": "Misión: Imposible - Sentencia mortal parte uno",
+            "name_in_english": "Mission: Impossible - Dead Reckoning Part One",
+            "premiere": "Julio 12 2023",
+            "genre": "Acción, Aventura, Suspense",
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/83sGKvCv2T2CulYbd40Aeduc7n2.jpg",
+            "duration": "2h 43m",
+            "trailer": "https://youtu.be/kYOw02V976s",
+            "synopsis": "Ethan Hunt y su equipo del FMI, se embarcan en su misión más peligrosa hasta la fecha: localizar, antes de que caiga en las manos equivocadas, una nueva y terrorífica arma que amenaza a toda la humanidad. En esta tesitura, y con unas fuerzas oscuras del pasado de Ethan acechando, comienza una carrera mortal alrededor del mundo en la que está en juego el control del futuro y el destino del planeta. Enfrentado a un enemigo misterioso y todopoderoso, Ethan se ve obligado a considerar que nada puede anteponerse a su misión, ni siquiera las vidas de aquellos que más le importan.",
+            "age_restriction": "Recomendada para Mayores de 12 años",
+            "country": "Estados Unidos",
+            "director": "Christopher McQuarrie",
+            "actors": "Tom Cruise, Hayley Atwell, Ving Rhames, Simon Pegg, Rebecca Ferguson, Vanessa Kirby, Henry Czerny, Esai Morales and Pom Klementieff",
+            "language": "Inglés"
+        },
+        {
+            "id": 9,
+            "name": "Ruby: Aventuras de una kraken adolescente",
+            "name_in_english": "Ruby Gillman, Teenage Kraken",
+            "premiere": "Junio 30 2023",
+            "genre": "Animación, Familia, Fantasía, Comedia",
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gdJZsSRscoorp23oN9D4sJPYq4L.jpg",
+            "duration": "1h 31m",
+            "trailer": "https://youtu.be/m-BtpI-D7kI",
+            "synopsis": "Una tímida adolescente descubre que forma parte de la legendaria realeza de los míticos Kraken, los señores del mar, y que su destino en las profundidades del océano es mucho mayor de lo que jamás había soñado.",
+            "age_restriction": "Para todo el Público",
+            "country": "Estados Unidos",
+            "director": "Kirk DeMicco",
+            "actors": "Lana Condor, Toni Collette, Annie Murphy, Sam Richardson, Liza Koshy, Will Forte, Colman Domingo, Jaboukie Young-White and Blue Chapman",
+            "language": "Inglés"
+        },
+        {
+            "id": 10,
+            "name": "Transformers: El despertar de las bestias",
+            "name_in_english": "Transformers: Rise of the Beasts",
+            "premiere": "Junio 6 2023",
+            "genre": "Acción, Aventura, Ciencia ficción",
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yu24fXpro7jx4XFlgEWwElW1kgW.jpg",
+            "duration": "2h 7m",
+            "trailer": "https://youtu.be/lLVmLJdRZJQ",
+            "synopsis": "La batalla en la Tierra ya no es solo entre Autobots y Decepticons... Maximals, Predacons y Terrorcons se unen a Transformers: Rise of the Beasts.",
+            "age_restriction": "Recomendada para Mayores de 12 años",
+            "country": "Estados Unidos",
+            "director": "Steven Caple Jr.",
+            "actors": "Anthony Ramos, Dominique Fishback, Luna Lauren Velez, Dean Scott Vazquez, Tobe Nwigwe, Sarah Stiles, Leni Parker, Frank Marrs and Aidan Devine",
+            "language": "Inglés"
+        }
+    ],
+    "cinemas":[
+        {
+            "id": 1,
+            "name": "Los Molinos",
+            "halls":[1,2]
+        },
+        {
+            "id":2,
+            "name": "Santa Fe",
+            "halls":[1,2]
+        }
+    ],
+    "cinema_shows": [
+        {
+            "id": 1,
+            "cinemaId": 1,
+            "hall": 1,
+            "schedules": [1692036000000, 1692039600000, 1692115200000, 1692190800000, 1692212400000, 1692277200000, 1692363600000, 1692385200000],
+            "movie": "Guardianes de la Galaxia: Volumen 3"
+        },
+        {
+            "id": 2,
+            "cinemaId": 1,
+            "hall": 2,
+            "schedules": [1692018000000, 1692104400000, 1692201600000, 1692212400000, 1692385200000],
+            "movie": "Spider-Man: Cruzando el Multiverso"
+        },{
+            "id": 3,
+            "cinemaId": 1,
+            "hall": 1,
+            "schedules": [1692028800000, 1692104400000, 1692126000000, 1692201600000, 1692288000000, 1692298800000, 1692374400000],
+            "movie": "Elemental"
+        },{
+            "id": 4,
+            "cinemaId": 1,
+            "hall": 2,
+            "schedules": [1692028800000, 1692115200000, 1692190800000, 1692277200000, 1692363600000, 1692374400000],
+            "movie": "Barbie"
+        },{
+            "id": 5,
+            "cinemaId": 1,
+            "hall": 1,
+            "schedules": [1692039600000, 1692126000000, 1692288000000, 1692298800000],
+            "movie": "Indiana Jones y el dial del destino"
+        },{
+            "id": 6,
+            "cinemaId": 2,
+            "hall": 1,
+            "schedules": [1692018000000, 1692104400000, 1692190800000, 1692201600000, 1692385200000],
+            "movie": "Flash"
+        },{
+            "id": 7,
+            "cinemaId": 2,
+            "hall": 2,
+            "schedules": [1692018000000, 1692039600000, 1692104400000, 1692201600000, 1692212400000, 1692288000000, 1692363600000, 1692374400000],
+            "movie": "Sonido de Libertad"
+        },{
+            "id": 8,
+            "cinemaId": 2,
+            "hall": 1,
+            "schedules": [1692028800000, 1692126000000, 1692277200000, 1692288000000],
+            "movie": "Misión: Imposible - Sentencia mortal parte uno"
+        },{
+            "id": 9,
+            "cinemaId": 2,
+            "hall": 2,
+            "schedules": [1692028800000, 1692115200000, 1692126000000, 1692190800000, 1692277200000, 1692298800000, 1692385200000],
+            "movie": "Ruby: Aventuras de una kraken adolescente"
+        },{
+            "id": 10,
+            "cinemaId": 2,
+            "hall": 1,
+            "schedules": [1692039600000, 1692115200000, 1692212400000, 1692298800000, 1692363600000, 1692374400000],
+            "movie": "Transformers: El despertar de las bestias"
+        }
+    ],
+    "tickets":[],
+    "history": []
+}
